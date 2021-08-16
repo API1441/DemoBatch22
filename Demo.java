@@ -26,13 +26,7 @@ public class Demo {
 
 	System.out.println("Trying using push");
 
-	System.out.println("Poll SCM demonstration2");
-
-	System.out.println("Dividing Jobs:1");
-	
-	System.out.println("Dividing Jobs:3);
-
-	System.out.println("J1 J2:4);
+	System.out.println("Dividing Jobs: 1");
 
     }
 }
