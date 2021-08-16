@@ -26,7 +26,7 @@ public class Demo {
 
 	System.out.println("Trying using push");
 
-	System.out.println("Dividing Jobs: 3");
+	System.out.println("Check1");
 
     }
 }
