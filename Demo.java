@@ -26,7 +26,7 @@ public class Demo {
 
 	System.out.println("Trying using push");
 
-	System.out.println("Poll SCM demonstration1");
+	System.out.println("Poll SCM demonstration2");
 
     }
 }
