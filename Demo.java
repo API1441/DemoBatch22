@@ -28,5 +28,7 @@ public class Demo {
 
 	System.out.println("Check1");
 
+	System.out.println("Check2");
+
     }
 }
